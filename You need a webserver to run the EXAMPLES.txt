@@ -1,0 +1,1 @@
+You need a webserver to run the EXAMPLES, because of the ajax related operations.
